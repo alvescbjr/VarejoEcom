@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAIgB,yDAAC;EACG,SAAS,EAAE,IAAI;EACf,UAAU,EAAE,IAAI",
+"sources": ["../sass/ShippingCompany/_list_shipping_company.scss"],
+"names": [],
+"file": "style.css"
+}

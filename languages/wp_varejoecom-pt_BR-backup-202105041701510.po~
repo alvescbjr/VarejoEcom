@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP VarejoEcom\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-04 16:17+0000\n"
+"PO-Revision-Date: 2021-05-04 17:00+0000\n"
+"Last-Translator: Francisco Alves\n"
+"Language-Team: Português do Brasil\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7\n"
+"X-Domain: wp-varejoecom"
+
+#: view/shipping_company/wp_varejoecom_register_shipping_company_form.php
+msgid "active"
+msgstr "Ativo"
+
+#: view/shipping_company/wp_varejoecom_list_shipping_company.php
+msgid "Change"
+msgstr "Alterar"
+
+#: view/shipping_company/wp_varejoecom_list_shipping_company.php
+msgid "CNPJ"
+msgstr "CNPJ"
+
+#: view/shipping_company/wp_varejoecom_register_shipping_company_form.php
+msgid "CNPJ:"
+msgstr "CNPJ:"
+
+#: view/shipping_company/wp_varejoecom_register_shipping_company_form.php
+msgid "disabled"
+msgstr "Desativado"
+
+#. Author of the plugin
+msgid "Francisco de Assis"
+msgstr "Cadastro de Transportadora"
+
+#: view/shipping_company/wp_varejoecom_list_shipping_company.php
+msgid "Id"
+msgstr "Id"
+
+#: view/shipping_company/wp_varejoecom_register_shipping_company_form.php
+#| msgid "identifier"
+msgid "identifier:"
+msgstr "Identificador:"
+
+#: src/Settings/wp_varejoecom_settings.php
+msgid "List Shipping Company"
+msgstr "Lista de Transportadoras"
+
+#: view/shipping_company/wp_varejoecom_list_shipping_company.php
+msgid "Register Shipping Company"
+msgstr "Cadastro de Transportadora"
+
+#: includes/wp_varejoecom_add_message_section.php
+msgid "Registered successfully!"
+msgstr "Cadastrado com Sucesso!"
+
+#: view/shipping_company/wp_varejoecom_list_shipping_company.php
+msgid "Shipping Company List"
+msgstr "Lista de Transportadoras"
+
+#: view/shipping_company/wp_varejoecom_register_shipping_company_form.php
+msgid "Shipping Company:"
+msgstr "Transportadora:"
+
+#: view/shipping_company/wp_varejoecom_list_shipping_company.php
+msgid "Shipping Name"
+msgstr "Transportadora"
+
+#: view/shipping_company/wp_varejoecom_list_shipping_company.php
+msgid "Status"
+msgstr "Status"
+
+#: view/shipping_company/wp_varejoecom_register_shipping_company_form.php
+msgid "Status:"
+msgstr "Status:"
+
+#. Description of the plugin
+msgid "wp_varejoecom customizations plugin"
+msgstr "Plugin de personalizações wp_varejoecom"
+
+#. Name of the plugin
+msgid "WP VarejoEcom"
+msgstr ""

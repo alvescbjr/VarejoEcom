@@ -1,0 +1,12 @@
+body{
+    &.varejoecom_page_lista-transportadoras{
+        .container{
+            .card{
+                &{
+                    min-width: 100%;
+                    overflow-x: auto;
+                }
+            }
+        }
+    }
+}
